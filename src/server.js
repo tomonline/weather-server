@@ -6,7 +6,7 @@ const port = process.env.PORT || 3000;
 
 
 app.get("/", (req, res) => {
-    res.send("Hello, World!");
+    res.send("Sample Weather Server is running");
 });
 
 app.get("/cities", (req, res) => {
