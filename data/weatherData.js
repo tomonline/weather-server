@@ -36,6 +36,23 @@ function generateWeatherRecords(city, days = 30) {
     const windDirections = ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW'];
     const winddirection = windDirections[(windDirections.indexOf(base.windDir) + i) % windDirections.length];
     const confidence = Math.round(98 - (i * 28) / (days - 1)); // 98% to 70%
+
+    // Generate hourly temperatures for the day
+    const hourlyTemperatures = [];
+    for (let h = 0; h < 24; h++) {
+      // Simulate a daily temperature curve: cooler at night, warmer mid-day, bigger dip in evening and overnight
+      const hourVariation = Math.sin((Math.PI * (h - 6)) / 12) * 4; // peak at 14:00
+      const eveningDip = h >= 18 && h <= 23 ? -3 : 0; // bigger dip in the evening
+      const overnightDip = h >= 0 && h <= 5 ? -4 : 0; // bigger dip overnight (midnight to 5am)
+      const randomNoise = (Math.random() - 0.5) * 1.5;
+      const hourTempC = Math.round(tempC + hourVariation + eveningDip + overnightDip + randomNoise);
+      hourlyTemperatures.push({
+        hour: h,
+        celsius: hourTempC,
+        fahrenheit: toFahrenheit(hourTempC),
+      });
+    }
+
     records.push({
       weatherRecordId: `${city.cityCode}-${i + 1}`,
       citycityCode: city.cityCode,
@@ -44,6 +61,7 @@ function generateWeatherRecords(city, days = 30) {
         celsius: tempC,
         fahrenheit: toFahrenheit(tempC),
       },
+      hourlyTemperatures, // <-- new field
       windspeed,
       winddirection,
       accuracyConfidence: confidence,
