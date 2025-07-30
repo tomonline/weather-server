@@ -1,9 +1,11 @@
 const express = require('express');
+const cors = require('cors');
 const {getCityData} = require("../data/cityData");
 const weatherData = require("../data/weatherData");
 const app = express();
 const port = process.env.PORT || 3000;
 
+app.use(cors());
 
 app.get("/", (req, res) => {
     res.send("Sample Weather Server is running");
