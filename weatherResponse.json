@@ -1,0 +1,4029 @@
+{
+  "city": {
+    "cityId": 1,
+    "cityName": "London",
+    "cityCode": "LON"
+  },
+  "records": [
+    {
+      "weatherRecordId": "LON-1",
+      "citycityCode": "LON",
+      "date": "2025-08-24",
+      "temperature": {
+        "celsius": 18,
+        "fahrenheit": 64
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 1,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 2,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 3,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 4,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 5,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 6,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 7,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 8,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 9,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 10,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 11,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 12,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 13,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 14,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 15,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 16,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 17,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 18,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 19,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 20,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 21,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 22,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 23,
+          "celsius": 11,
+          "fahrenheit": 52
+        }
+      ],
+      "windspeed": 13,
+      "winddirection": "SW",
+      "accuracyConfidence": 98
+    },
+    {
+      "weatherRecordId": "LON-2",
+      "citycityCode": "LON",
+      "date": "2025-08-25",
+      "temperature": {
+        "celsius": 18,
+        "fahrenheit": 64
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 1,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 2,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 3,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 4,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 5,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 6,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 7,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 8,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 9,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 10,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 11,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 12,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 13,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 14,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 15,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 16,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 17,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 18,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 19,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 20,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 21,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 22,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 23,
+          "celsius": 11,
+          "fahrenheit": 52
+        }
+      ],
+      "windspeed": 12,
+      "winddirection": "W",
+      "accuracyConfidence": 97
+    },
+    {
+      "weatherRecordId": "LON-3",
+      "citycityCode": "LON",
+      "date": "2025-08-26",
+      "temperature": {
+        "celsius": 20,
+        "fahrenheit": 68
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 1,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 2,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 3,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 4,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 5,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 6,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 7,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 8,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 9,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 10,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 11,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 12,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 13,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 14,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 15,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 16,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 17,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 18,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 19,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 20,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 21,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 22,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 23,
+          "celsius": 13,
+          "fahrenheit": 55
+        }
+      ],
+      "windspeed": 11,
+      "winddirection": "NW",
+      "accuracyConfidence": 96
+    },
+    {
+      "weatherRecordId": "LON-4",
+      "citycityCode": "LON",
+      "date": "2025-08-27",
+      "temperature": {
+        "celsius": 19,
+        "fahrenheit": 66
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 1,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 2,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 3,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 4,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 5,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 6,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 7,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 8,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 9,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 10,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 11,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 12,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 13,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 14,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 15,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 16,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 17,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 18,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 19,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 20,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 21,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 22,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 23,
+          "celsius": 12,
+          "fahrenheit": 54
+        }
+      ],
+      "windspeed": 12,
+      "winddirection": "N",
+      "accuracyConfidence": 95
+    },
+    {
+      "weatherRecordId": "LON-5",
+      "citycityCode": "LON",
+      "date": "2025-08-28",
+      "temperature": {
+        "celsius": 19,
+        "fahrenheit": 66
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 1,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 2,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 3,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 4,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 5,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 6,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 7,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 8,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 9,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 10,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 11,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 12,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 13,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 14,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 15,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 16,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 17,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 18,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 19,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 20,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 21,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 22,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 23,
+          "celsius": 12,
+          "fahrenheit": 54
+        }
+      ],
+      "windspeed": 12,
+      "winddirection": "NE",
+      "accuracyConfidence": 94
+    },
+    {
+      "weatherRecordId": "LON-6",
+      "citycityCode": "LON",
+      "date": "2025-08-29",
+      "temperature": {
+        "celsius": 21,
+        "fahrenheit": 70
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 1,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 2,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 3,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 4,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 5,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 6,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 7,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 8,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 9,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 10,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 11,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 12,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 13,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 14,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 15,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 16,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 17,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 18,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 19,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 20,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 21,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 22,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 23,
+          "celsius": 14,
+          "fahrenheit": 57
+        }
+      ],
+      "windspeed": 13,
+      "winddirection": "E",
+      "accuracyConfidence": 93
+    },
+    {
+      "weatherRecordId": "LON-7",
+      "citycityCode": "LON",
+      "date": "2025-08-30",
+      "temperature": {
+        "celsius": 21,
+        "fahrenheit": 70
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 1,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 2,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 3,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 4,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 5,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 6,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 7,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 8,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 9,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 10,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 11,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 12,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 13,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 14,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 15,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 16,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 17,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 18,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 19,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 20,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 21,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 22,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 23,
+          "celsius": 15,
+          "fahrenheit": 59
+        }
+      ],
+      "windspeed": 11,
+      "winddirection": "SE",
+      "accuracyConfidence": 92
+    },
+    {
+      "weatherRecordId": "LON-8",
+      "citycityCode": "LON",
+      "date": "2025-08-31",
+      "temperature": {
+        "celsius": 21,
+        "fahrenheit": 70
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 1,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 2,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 3,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 4,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 5,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 6,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 7,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 8,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 9,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 10,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 11,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 12,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 13,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 14,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 15,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 16,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 17,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 18,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 19,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 20,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 21,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 22,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 23,
+          "celsius": 14,
+          "fahrenheit": 57
+        }
+      ],
+      "windspeed": 11,
+      "winddirection": "S",
+      "accuracyConfidence": 91
+    },
+    {
+      "weatherRecordId": "LON-9",
+      "citycityCode": "LON",
+      "date": "2025-09-01",
+      "temperature": {
+        "celsius": 20,
+        "fahrenheit": 68
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 1,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 2,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 3,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 4,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 5,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 6,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 7,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 8,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 9,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 10,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 11,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 12,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 13,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 14,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 15,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 16,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 17,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 18,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 19,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 20,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 21,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 22,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 23,
+          "celsius": 13,
+          "fahrenheit": 55
+        }
+      ],
+      "windspeed": 11,
+      "winddirection": "SW",
+      "accuracyConfidence": 90
+    },
+    {
+      "weatherRecordId": "LON-10",
+      "citycityCode": "LON",
+      "date": "2025-09-02",
+      "temperature": {
+        "celsius": 20,
+        "fahrenheit": 68
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 1,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 2,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 3,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 4,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 5,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 6,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 7,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 8,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 9,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 10,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 11,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 12,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 13,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 14,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 15,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 16,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 17,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 18,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 19,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 20,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 21,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 22,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 23,
+          "celsius": 13,
+          "fahrenheit": 55
+        }
+      ],
+      "windspeed": 10,
+      "winddirection": "W",
+      "accuracyConfidence": 89
+    },
+    {
+      "weatherRecordId": "LON-11",
+      "citycityCode": "LON",
+      "date": "2025-09-03",
+      "temperature": {
+        "celsius": 21,
+        "fahrenheit": 70
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 1,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 2,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 3,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 4,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 5,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 6,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 7,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 8,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 9,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 10,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 11,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 12,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 13,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 14,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 15,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 16,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 17,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 18,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 19,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 20,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 21,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 22,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 23,
+          "celsius": 14,
+          "fahrenheit": 57
+        }
+      ],
+      "windspeed": 11,
+      "winddirection": "NW",
+      "accuracyConfidence": 88
+    },
+    {
+      "weatherRecordId": "LON-12",
+      "citycityCode": "LON",
+      "date": "2025-09-04",
+      "temperature": {
+        "celsius": 21,
+        "fahrenheit": 70
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 1,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 2,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 3,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 4,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 5,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 6,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 7,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 8,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 9,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 10,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 11,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 12,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 13,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 14,
+          "celsius": 25,
+          "fahrenheit": 77
+        },
+        {
+          "hour": 15,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 16,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 17,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 18,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 19,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 20,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 21,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 22,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 23,
+          "celsius": 14,
+          "fahrenheit": 57
+        }
+      ],
+      "windspeed": 11,
+      "winddirection": "N",
+      "accuracyConfidence": 87
+    },
+    {
+      "weatherRecordId": "LON-13",
+      "citycityCode": "LON",
+      "date": "2025-09-05",
+      "temperature": {
+        "celsius": 19,
+        "fahrenheit": 66
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 1,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 2,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 3,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 4,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 5,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 6,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 7,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 8,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 9,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 10,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 11,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 12,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 13,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 14,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 15,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 16,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 17,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 18,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 19,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 20,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 21,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 22,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 23,
+          "celsius": 12,
+          "fahrenheit": 54
+        }
+      ],
+      "windspeed": 9,
+      "winddirection": "NE",
+      "accuracyConfidence": 86
+    },
+    {
+      "weatherRecordId": "LON-14",
+      "citycityCode": "LON",
+      "date": "2025-09-06",
+      "temperature": {
+        "celsius": 19,
+        "fahrenheit": 66
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 1,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 2,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 3,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 4,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 5,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 6,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 7,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 8,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 9,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 10,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 11,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 12,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 13,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 14,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 15,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 16,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 17,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 18,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 19,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 20,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 21,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 22,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 23,
+          "celsius": 12,
+          "fahrenheit": 54
+        }
+      ],
+      "windspeed": 9,
+      "winddirection": "E",
+      "accuracyConfidence": 85
+    },
+    {
+      "weatherRecordId": "LON-15",
+      "citycityCode": "LON",
+      "date": "2025-09-07",
+      "temperature": {
+        "celsius": 19,
+        "fahrenheit": 66
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 1,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 2,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 3,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 4,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 5,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 6,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 7,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 8,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 9,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 10,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 11,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 12,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 13,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 14,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 15,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 16,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 17,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 18,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 19,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 20,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 21,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 22,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 23,
+          "celsius": 12,
+          "fahrenheit": 54
+        }
+      ],
+      "windspeed": 9,
+      "winddirection": "SE",
+      "accuracyConfidence": 84
+    },
+    {
+      "weatherRecordId": "LON-16",
+      "citycityCode": "LON",
+      "date": "2025-09-08",
+      "temperature": {
+        "celsius": 19,
+        "fahrenheit": 66
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 1,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 2,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 3,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 4,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 5,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 6,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 7,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 8,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 9,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 10,
+          "celsius": 23,
+          "fahrenheit": 73
+        },
+        {
+          "hour": 11,
+          "celsius": 24,
+          "fahrenheit": 75
+        },
+        {
+          "hour": 12,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 13,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 14,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 15,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 16,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 17,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 18,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 19,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 20,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 21,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 22,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 23,
+          "celsius": 12,
+          "fahrenheit": 54
+        }
+      ],
+      "windspeed": 9,
+      "winddirection": "S",
+      "accuracyConfidence": 84
+    },
+    {
+      "weatherRecordId": "LON-17",
+      "citycityCode": "LON",
+      "date": "2025-09-09",
+      "temperature": {
+        "celsius": 17,
+        "fahrenheit": 63
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 1,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 2,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 3,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 4,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 5,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 6,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 7,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 8,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 9,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 10,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 11,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 12,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 13,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 14,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 15,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 16,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 17,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 18,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 19,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 20,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 21,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 22,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 23,
+          "celsius": 10,
+          "fahrenheit": 50
+        }
+      ],
+      "windspeed": 9,
+      "winddirection": "SW",
+      "accuracyConfidence": 83
+    },
+    {
+      "weatherRecordId": "LON-18",
+      "citycityCode": "LON",
+      "date": "2025-09-10",
+      "temperature": {
+        "celsius": 17,
+        "fahrenheit": 63
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 1,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 2,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 3,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 4,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 5,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 6,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 7,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 8,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 9,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 10,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 11,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 12,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 13,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 14,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 15,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 16,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 17,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 18,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 19,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 20,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 21,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 22,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 23,
+          "celsius": 10,
+          "fahrenheit": 50
+        }
+      ],
+      "windspeed": 8,
+      "winddirection": "W",
+      "accuracyConfidence": 82
+    },
+    {
+      "weatherRecordId": "LON-19",
+      "citycityCode": "LON",
+      "date": "2025-09-11",
+      "temperature": {
+        "celsius": 17,
+        "fahrenheit": 63
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 1,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 2,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 3,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 4,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 5,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 6,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 7,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 8,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 9,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 10,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 11,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 12,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 13,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 14,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 15,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 16,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 17,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 18,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 19,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 20,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 21,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 22,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 23,
+          "celsius": 10,
+          "fahrenheit": 50
+        }
+      ],
+      "windspeed": 7,
+      "winddirection": "NW",
+      "accuracyConfidence": 81
+    },
+    {
+      "weatherRecordId": "LON-20",
+      "citycityCode": "LON",
+      "date": "2025-09-12",
+      "temperature": {
+        "celsius": 17,
+        "fahrenheit": 63
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 1,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 2,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 3,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 4,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 5,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 6,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 7,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 8,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 9,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 10,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 11,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 12,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 13,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 14,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 15,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 16,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 17,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 18,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 19,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 20,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 21,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 22,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 23,
+          "celsius": 10,
+          "fahrenheit": 50
+        }
+      ],
+      "windspeed": 8,
+      "winddirection": "N",
+      "accuracyConfidence": 80
+    },
+    {
+      "weatherRecordId": "LON-21",
+      "citycityCode": "LON",
+      "date": "2025-09-13",
+      "temperature": {
+        "celsius": 16,
+        "fahrenheit": 61
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 1,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 2,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 3,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 4,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 5,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 6,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 7,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 8,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 9,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 10,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 11,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 12,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 13,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 14,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 15,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 16,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 17,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 18,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 19,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 20,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 21,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 22,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 23,
+          "celsius": 8,
+          "fahrenheit": 46
+        }
+      ],
+      "windspeed": 7,
+      "winddirection": "NE",
+      "accuracyConfidence": 79
+    },
+    {
+      "weatherRecordId": "LON-22",
+      "citycityCode": "LON",
+      "date": "2025-09-14",
+      "temperature": {
+        "celsius": 15,
+        "fahrenheit": 59
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 7,
+          "fahrenheit": 45
+        },
+        {
+          "hour": 1,
+          "celsius": 7,
+          "fahrenheit": 45
+        },
+        {
+          "hour": 2,
+          "celsius": 7,
+          "fahrenheit": 45
+        },
+        {
+          "hour": 3,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 4,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 5,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 6,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 7,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 8,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 9,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 10,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 11,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 12,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 13,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 14,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 15,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 16,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 17,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 18,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 19,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 20,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 21,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 22,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 23,
+          "celsius": 8,
+          "fahrenheit": 46
+        }
+      ],
+      "windspeed": 7,
+      "winddirection": "E",
+      "accuracyConfidence": 78
+    },
+    {
+      "weatherRecordId": "LON-23",
+      "citycityCode": "LON",
+      "date": "2025-09-15",
+      "temperature": {
+        "celsius": 15,
+        "fahrenheit": 59
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 6,
+          "fahrenheit": 43
+        },
+        {
+          "hour": 1,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 2,
+          "celsius": 7,
+          "fahrenheit": 45
+        },
+        {
+          "hour": 3,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 4,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 5,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 6,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 7,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 8,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 9,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 10,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 11,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 12,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 13,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 14,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 15,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 16,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 17,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 18,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 19,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 20,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 21,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 22,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 23,
+          "celsius": 8,
+          "fahrenheit": 46
+        }
+      ],
+      "windspeed": 8,
+      "winddirection": "SE",
+      "accuracyConfidence": 77
+    },
+    {
+      "weatherRecordId": "LON-24",
+      "citycityCode": "LON",
+      "date": "2025-09-16",
+      "temperature": {
+        "celsius": 15,
+        "fahrenheit": 59
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 7,
+          "fahrenheit": 45
+        },
+        {
+          "hour": 1,
+          "celsius": 7,
+          "fahrenheit": 45
+        },
+        {
+          "hour": 2,
+          "celsius": 7,
+          "fahrenheit": 45
+        },
+        {
+          "hour": 3,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 4,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 5,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 6,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 7,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 8,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 9,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 10,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 11,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 12,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 13,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 14,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 15,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 16,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 17,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 18,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 19,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 20,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 21,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 22,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 23,
+          "celsius": 8,
+          "fahrenheit": 46
+        }
+      ],
+      "windspeed": 8,
+      "winddirection": "S",
+      "accuracyConfidence": 76
+    },
+    {
+      "weatherRecordId": "LON-25",
+      "citycityCode": "LON",
+      "date": "2025-09-17",
+      "temperature": {
+        "celsius": 16,
+        "fahrenheit": 61
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 7,
+          "fahrenheit": 45
+        },
+        {
+          "hour": 1,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 2,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 3,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 4,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 5,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 6,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 7,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 8,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 9,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 10,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 11,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 12,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 13,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 14,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 15,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 16,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 17,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 18,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 19,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 20,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 21,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 22,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 23,
+          "celsius": 9,
+          "fahrenheit": 48
+        }
+      ],
+      "windspeed": 8,
+      "winddirection": "SW",
+      "accuracyConfidence": 75
+    },
+    {
+      "weatherRecordId": "LON-26",
+      "citycityCode": "LON",
+      "date": "2025-09-18",
+      "temperature": {
+        "celsius": 15,
+        "fahrenheit": 59
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 1,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 2,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 3,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 4,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 5,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 6,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 7,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 8,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 9,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 10,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 11,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 12,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 13,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 14,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 15,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 16,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 17,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 18,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 19,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 20,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 21,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 22,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 23,
+          "celsius": 9,
+          "fahrenheit": 48
+        }
+      ],
+      "windspeed": 8,
+      "winddirection": "W",
+      "accuracyConfidence": 74
+    },
+    {
+      "weatherRecordId": "LON-27",
+      "citycityCode": "LON",
+      "date": "2025-09-19",
+      "temperature": {
+        "celsius": 16,
+        "fahrenheit": 61
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 1,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 2,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 3,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 4,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 5,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 6,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 7,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 8,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 9,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 10,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 11,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 12,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 13,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 14,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 15,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 16,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 17,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 18,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 19,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 20,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 21,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 22,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 23,
+          "celsius": 9,
+          "fahrenheit": 48
+        }
+      ],
+      "windspeed": 9,
+      "winddirection": "NW",
+      "accuracyConfidence": 73
+    },
+    {
+      "weatherRecordId": "LON-28",
+      "citycityCode": "LON",
+      "date": "2025-09-20",
+      "temperature": {
+        "celsius": 16,
+        "fahrenheit": 61
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 1,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 2,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 3,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 4,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 5,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 6,
+          "celsius": 16,
+          "fahrenheit": 61
+        },
+        {
+          "hour": 7,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 8,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 9,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 10,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 11,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 12,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 13,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 14,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 15,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 16,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 17,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 18,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 19,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 20,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 21,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 22,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 23,
+          "celsius": 9,
+          "fahrenheit": 48
+        }
+      ],
+      "windspeed": 8,
+      "winddirection": "N",
+      "accuracyConfidence": 72
+    },
+    {
+      "weatherRecordId": "LON-29",
+      "citycityCode": "LON",
+      "date": "2025-09-21",
+      "temperature": {
+        "celsius": 17,
+        "fahrenheit": 63
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 1,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 2,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 3,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 4,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 5,
+          "celsius": 13,
+          "fahrenheit": 55
+        },
+        {
+          "hour": 6,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 7,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 8,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 9,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 10,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 11,
+          "celsius": 22,
+          "fahrenheit": 72
+        },
+        {
+          "hour": 12,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 13,
+          "celsius": 21,
+          "fahrenheit": 70
+        },
+        {
+          "hour": 14,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 15,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 16,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 17,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 18,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 19,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 20,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 21,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 22,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 23,
+          "celsius": 10,
+          "fahrenheit": 50
+        }
+      ],
+      "windspeed": 10,
+      "winddirection": "NE",
+      "accuracyConfidence": 71
+    },
+    {
+      "weatherRecordId": "LON-30",
+      "citycityCode": "LON",
+      "date": "2025-09-22",
+      "temperature": {
+        "celsius": 16,
+        "fahrenheit": 61
+      },
+      "hourlyTemperatures": [
+        {
+          "hour": 0,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 1,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 2,
+          "celsius": 8,
+          "fahrenheit": 46
+        },
+        {
+          "hour": 3,
+          "celsius": 9,
+          "fahrenheit": 48
+        },
+        {
+          "hour": 4,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 5,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 6,
+          "celsius": 15,
+          "fahrenheit": 59
+        },
+        {
+          "hour": 7,
+          "celsius": 17,
+          "fahrenheit": 63
+        },
+        {
+          "hour": 8,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 9,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 10,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 11,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 12,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 13,
+          "celsius": 20,
+          "fahrenheit": 68
+        },
+        {
+          "hour": 14,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 15,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 16,
+          "celsius": 19,
+          "fahrenheit": 66
+        },
+        {
+          "hour": 17,
+          "celsius": 18,
+          "fahrenheit": 64
+        },
+        {
+          "hour": 18,
+          "celsius": 14,
+          "fahrenheit": 57
+        },
+        {
+          "hour": 19,
+          "celsius": 12,
+          "fahrenheit": 54
+        },
+        {
+          "hour": 20,
+          "celsius": 11,
+          "fahrenheit": 52
+        },
+        {
+          "hour": 21,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 22,
+          "celsius": 10,
+          "fahrenheit": 50
+        },
+        {
+          "hour": 23,
+          "celsius": 9,
+          "fahrenheit": 48
+        }
+      ],
+      "windspeed": 9,
+      "winddirection": "E",
+      "accuracyConfidence": 70
+    }
+  ]
+}

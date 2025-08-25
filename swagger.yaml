@@ -1,0 +1,137 @@
+openapi: 3.0.0
+info:
+  title: Sample Weather Server API
+  version: 1.0.0
+  description: API for retrieving city and weather data.
+servers:
+  - url: https://nu-flow.co.uk
+paths:
+  /:
+    get:
+      summary: Server status
+      description: Returns a simple status message.
+      responses:
+        '200':
+          description: Server is running
+          content:
+            text/plain:
+              schema:
+                type: string
+                example: Sample Weather Server is running
+  /cities:
+    get:
+      summary: Get city data
+      description: Returns a list of cities.
+      responses:
+        '200':
+          description: List of cities
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    code:
+                      type: string
+                      example: LON
+                    name:
+                      type: string
+                      example: LOndon
+  /weather:
+    get:
+      summary: Get weather data for a city
+      description: Returns weather data for a given city code.
+      parameters:
+        - in: query
+          name: cityCode
+          schema:
+            type: string
+          required: true
+          description: The code of the city to get weather for
+      responses:
+        '200':
+          description: Weather data for the city
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  city:
+                    type: object
+                    properties:
+                      cityCode:
+                        type: string
+                        example: LON
+                      name:
+                        type: string
+                        example: London
+                  records:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        weatherRecordId:
+                          type: string
+                          example: LON-1
+                        citycityCode:
+                          type: string
+                          example: LON
+                        date:
+                          type: string
+                          format: date
+                          example: '2023-10-01'
+                        temperature:
+                          type: object
+                          properties:
+                            celsius:
+                              type: number
+                              example: 22
+                            fahrenheit:
+                              type: number
+                              example: 71.6
+                        hourlyTemperatures:
+                          type: array
+                          items:
+                            type: object
+                            properties:
+                              hour:
+                                type: integer
+                                minimum: 0
+                                maximum: 23
+                                example: 14
+                              celsius:
+                                type: number
+                                example: 23
+                              fahrenheit:
+                                type: number
+                                example: 73.4
+                        windspeed:
+                          type: number
+                          example: 12
+                        winddirection:
+                          type: string
+                          example: NW
+                        accuracyConfidence:
+                          type: number
+                          example: 98
+        '400':
+          description: Missing cityCode parameter
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    example: cityCode parameter is required
+        '404':
+          description: City not found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    example: City not found

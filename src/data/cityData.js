@@ -14,8 +14,10 @@ const cityData = [
         cityName: "Paris",
         cityCode: "PAR"
     }
-]
+]; // Added missing semicolon
 
-export function getCityData() {
+function getCityData() {
     return cityData;
 }
+
+module.exports = { getCityData };

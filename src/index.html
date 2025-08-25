@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nu Flow - Weather Data API</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: #f7f9fa;
+            color: #222;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 700px;
+            margin: 60px auto;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+            padding: 40px 32px 32px 32px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5em;
+            color: #1a73e8;
+            letter-spacing: -1px;
+        }
+        p {
+            font-size: 1.15rem;
+            color: #444;
+            margin-bottom: 2em;
+        }
+        .endpoints {
+            margin-top: 2em;
+        }
+        .endpoint-list {
+            list-style: none;
+            padding: 0;
+        }
+        .endpoint-list li {
+            background: #f1f5fb;
+            margin-bottom: 1em;
+            border-left: 4px solid #1a73e8;
+            padding: 1em 1.5em;
+            border-radius: 6px;
+            font-size: 1.05rem;
+        }
+        .endpoint {
+            font-family: 'Fira Mono', 'Consolas', monospace;
+            color: #1a73e8;
+            font-weight: bold;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px 8px;
+            }
+            h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nu Flow Weather Data API</h1>
+        <p>A simple dummy weather data endpoint for testing and evaluation purposes.  Use freely with no warranty or expection of support.</p>
+        <div class="endpoints">
+            <h2>Available Endpoints</h2>
+            <ul class="endpoint-list">
+                <li><span class="endpoint">/swagger-ui</span> &mdash; Interactive Swagger UI for API documentation and testing.</li>
+                <li><span class="endpoint">/cities</span> &mdash; Returns a list of available cities.</li>
+                <li><span class="endpoint">/weather?cityCode=</span><em>code</em> &mdash; Returns weather data for the city specified by the <code>cityCode</code> query parameter.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
